@@ -1,0 +1,14 @@
+{
+  "name": "mongo-basics",
+  "version": "1.0.0",
+  "description": "This is my first MOngo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Terry",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.30"
+  }
+}
